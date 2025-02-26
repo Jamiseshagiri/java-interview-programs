@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Ts14_Trafic_Signals {
 public static void main(String[] args) {
 	Scanner sc=new Scanner(System.in);
-//	System.out.println("Enter a Color is: ");
+//	System.out.println("Enter a Coluor is: ");
 //	String s1=sc.nextLine();
 	String s1="mor";
 	System.out.println("Start code");
